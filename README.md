@@ -29,7 +29,7 @@ The framework implements a hybrid leader-follower multi-UAV architecture:
 3. Open either `Case 1 - Ideal Conditions` or `Case 2 - Uncertain and Disturbed Conditions`.
 4. Run the main initialization script (`.m`) to load platform parameters and controller gains into the workspace.
 5. Open and run the respective Simulink model (`.slx`).
-6. Execute the plotting scripts to view tracking performance and error metrics.
+6. Execute the plotting scripts to view the results.
 
 ---
 
