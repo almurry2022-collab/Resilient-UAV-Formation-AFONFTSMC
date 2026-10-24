@@ -55,7 +55,7 @@ Initial 3D spatial layout and helical path definition for the leader-follower mu
 3. Open either `Case 1 - Ideal Conditions` or `Case 2 - Uncertain and Disturbed Conditions`.
 4. Run the main initialization `.m` script to load platform parameters and controller gains into the workspace.
 5. Open and execute the corresponding Simulink model (`.slx`).
-6. Run the plotting routines to display trajectory and tracking error metrics.
+6. Execute the plotting scripts to view the results.
 
 ---
 
